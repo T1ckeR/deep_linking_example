@@ -92,7 +92,6 @@ class _MyAppState extends State<MyApp> {
           child: Center(
             child: Text(
               data,
-              textAlign: TextAlign.center,
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 40,
